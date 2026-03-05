@@ -105,6 +105,7 @@ O scorecard inclui:
 - Status PASS/FAIL
 - Recomendações operacionais
 
+O arquivo reports/scorecard.md é gerado automaticamente ao executar o script de validação.
 ---
 
 # Como executar
