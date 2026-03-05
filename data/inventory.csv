@@ -1,0 +1,4 @@
+model_id,model_type,business_use,materiality,complexity,usage,is_automated_decision,sensitive_data,owner,last_validated
+credit_scoring_v1,classification,credit_risk,5,4,5,yes,yes,risk_team,2026-01-10
+fraud_detector_v2,classification,fraud_detection,4,4,4,yes,yes,fraud_team,2026-01-12
+demand_forecast_v1,regression,demand_forecast,3,2,3,no,no,analytics_team,2026-01-05

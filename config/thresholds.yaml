@@ -1,0 +1,15 @@
+classification:
+  auc_min: 0.75
+  f1_min: 0.60
+  max_overfit_gap: 0.05
+
+regression:
+  max_rmse: 20
+  max_mape: 0.20
+
+drift:
+  psi_warning: 0.10
+  psi_fail: 0.20
+
+fairness:
+  max_tpr_gap: 0.05
